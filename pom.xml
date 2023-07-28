@@ -24,16 +24,16 @@
     </dependency>
   </dependencies>
   
-  <distributionManagement>
+ <distributionManagement>
     <repository>
         <id>central</id>
-        <name>S39-Batch-releases</name>
-        <url>http://3.15.153.104:8081/artifactory/vmtutes-repo</url>
+        <name>ip-172-31-20-93.ap-south-1.compute.internal-releases</name>
+        <url>http://3.110.227.14:8081/artifactory/JFrog-firtst-repo</url>
     </repository>
     <snapshotRepository>
         <id>central</id>
-        <name>S39-Batch-snapshots</name>
-        <url>http://3.15.153.104:8081/artifactory/vmtutes-repo</url>
+        <name>ip-172-31-20-93.ap-south-1.compute.internal-snapshots</name>
+        <url>http://3.110.227.14:8081/artifactory/JFrog-firtst-repo</url>
     </snapshotRepository>
 </distributionManagement>
 
